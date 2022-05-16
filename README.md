@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TopFiveGao/topfivegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +18,11 @@ Here are some ideas to get you started:
 
 大家好呜~，我是**高某某**，**92年**的变态秃头**LSP**，**纯纯的社畜生**，嘤嘤嘤~。
 
-<img src="https://tva1.sinaimg.cn/large/9bd9b167ly1fwsfucs1hrj21hc0u01kx.jpg" width="15%" hight="15%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" width="15%" hight="15%" align='right' />
 
 -  ### :hammer_and_pick: **会的东西：**
 
-  ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)
+    ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)
 
 - ### :pencil2: **开发环境：**
 
@@ -48,10 +46,15 @@ Here are some ideas to get you started:
 
 ---
 
+### 参考仓库
+
+- **[whalefell](https://github.com/WhaleFell/whalefell)**
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="10%" hight="10%" align='right' />
+
 ## 联系我
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" width="10%" hight="10%" align='right' />
 
-1. :man_scientist: **QQ：** **2045778136**
+- :man_scientist: **QQ：** **2045778136**
 
    > **加时请备注来意，不然不做处理。**
 
