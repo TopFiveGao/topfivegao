@@ -37,7 +37,9 @@ Here are some ideas to get you started:
   
 - ### 😄 **信条:** 
 
-  **就算全力以赴不能得偿所愿，我们也可以选择坦然接受而不是踌躇不前。**
+  **就算全力以赴不能得偿所愿，**  
+  
+  **我们也可以选择坦然接受而不是踌躇不前。**
 
 
 - ### ✨ **最low的项目：**
@@ -49,10 +51,21 @@ Here are some ideas to get you started:
 ### 参考仓库
 
 - **[whalefell](https://github.com/WhaleFell/whalefell)**
-<img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="10%" hight="10%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" width="8%" hight="8%" align='right' />
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 
 ## 联系我
-<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" width="10%" hight="10%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" width="8%" hight="8%" align='right' />
 
 - :man_scientist: **QQ：** **2045778136**
 
