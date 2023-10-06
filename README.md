@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 大家好呜~，我是**高某某**，**92年**的变态秃头**LSP**，**纯纯的社畜生**，嘤嘤嘤~。
 
-<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" class="rounded-image" width="15%" hight="15%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" style="border-radius:50%;" width="15%" hight="15%" align='right' />
 
 -  ### :hammer_and_pick: **会的东西：**
 
@@ -72,21 +72,16 @@ Here are some ideas to get you started:
 
 ### 参考仓库
 
-<img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" class="rounded-image" width="8%" hight="8%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2734184475&s=640" style="border-radius:50%;" width="8%" hight="8%" align='right' />
 
 - **[whalefell](https://github.com/WhaleFell/whalefell)**
 
 
 ## 联系我
-<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" class="rounded-image" width="8%" hight="8%" align='right' />
+<img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" style="border-radius:50%;" width="8%" hight="8%" align='right' />
 
 - :man_scientist: **Wechat：** **treeshaking666**
 
    > **加时请备注来意，不然不做处理。**
-<style>
-    .rounded-image {
-        border-radius: 50%;
-    }
-</style>
 
 
