@@ -26,19 +26,18 @@ Here are some ideas to get you started:
     ![ts](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 
 
-    <br>
+
 
     ![vue](https://img.shields.io/badge/-Vue-263238?style=flat&logo=vue.js)
     ![react](https://img.shields.io/badge/-React-263238?style=flat&logo=react)
     ![uniapp](https://img.shields.io/badge/-Uniapp-506365?style=flat&logo=huawei&logoColor=red)
 
-    <br>
 
     ![tailwindcss](https://img.shields.io/badge/-Tailwindcss-053766?style=flat&logo=tailwindcss)
     ![sass](https://img.shields.io/badge/-Sass-053766?style=flat&logo=sass)
     ![less](https://img.shields.io/badge/-Less-053766?style=flat&logo=less&logoColor=0CAA41)
     
-    <br>
+
 
     ![vite](https://img.shields.io/badge/-Vite-gray?style=flat&logo=vite)
     ![webpack](https://img.shields.io/badge/-Webpack-gray?style=flat&logo=webpack)
@@ -49,12 +48,12 @@ Here are some ideas to get you started:
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-262577?style=flat-square&logo=Ubuntu&logoColor=white) 
   ![popos](https://img.shields.io/badge/-Pop!_OS-6935d3?style=flat-square&logo=popos&logoColor=white) 
 
-  <br>
+
 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
   ![docker](https://img.shields.io/badge/-docker-0078D6?style=flat-square&logo=docker&logoColor=white)
 
-  <br>
+
 
   ![Webstorm](https://img.shields.io/badge/-Webstorm-053766?style=flat-square&logo=webstorm&logoColor=white) 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
