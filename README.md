@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ----
 
-大家好呜~，我是**高某某**，**92年**的变态秃头**LSP**，**纯纯的社畜生**，嘤嘤嘤~。
+大家好，这是我的一些技能信息。
 
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2045778136&s=640" style="border-radius:50%;" width="15%" hight="15%" align='right' />
 
